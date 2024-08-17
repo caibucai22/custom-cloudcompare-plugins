@@ -1,0 +1,23 @@
+{
+	"type": "Standard",
+	"name": "PCA (Standard Plugin)",
+	"icon": ":/CC/plugin/qPCA/images/icon.png",
+	"description": "This is a description of the PCA plugin.",
+	"authors": [
+		{
+			"name": "Csy",
+			"email": "caibucai22@gmail.com"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Csy",
+			"email": "caibucai22@gmail.com"
+		}
+	],
+	"references": [
+		{
+			"text": "PCA"
+		}
+	]
+}
